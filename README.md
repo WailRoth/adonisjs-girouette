@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://discord.gg/9sHEwRUxFk">
-    <img src="https://dcbadge.vercel.app/api/server/9sHEwRUxFk">
-  </a>
-</div>
-
-</br>
-</br>
-
 ![Statements](https://img.shields.io/badge/statements-97.68%25-brightgreen.svg?style=flat)
 ![Branches](https://img.shields.io/badge/branches-89.87%25-yellow.svg?style=flat)
 ![Functions](https://img.shields.io/badge/functions-96.55%25-brightgreen.svg?style=flat)
